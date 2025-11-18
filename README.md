@@ -1,4 +1,4 @@
-#Demographic Visualization in R
+**#Demographic Visualization in R**
 
 This project analyzes a demographic dataset to explore patterns in age, gender, marital status, income, car ownership, and education using R.  
 The goal is to uncover insights about how demographic variables relate to income and car prices.
@@ -53,6 +53,7 @@ The dataset contains the following variables:
 1. Open the R script in RStudio.
 2. Ensure the dataset file is in the same folder as the script.
 3. Run the script to generate all visualizations.
+
 
 
 
