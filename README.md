@@ -29,9 +29,10 @@ The dataset contains the following variables:
 - Car price category  
 - Education level  
 
-**#How to Run This Project
-**
+**#How to Run This Project**
+
 1. Download or clone this repository.
 2. Open the R script in RStudio.
 3. Ensure the dataset file is in the same folder as the script.
 4. Run the script to generate all visualizations.
+
