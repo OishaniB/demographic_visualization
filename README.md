@@ -35,6 +35,8 @@ The dataset contains the following variables:
 - readxl (for reading Excel files)
 - ggplot2 (for enhanced plotting)
 
+#Visualizations
+
 **The generated plots are saved as PDFs in the `outputs` folder. You can view them by clicking the links below:**
 
 - [Age Distribution](outputs/Age%20distribution.pdf)  
@@ -51,5 +53,6 @@ The dataset contains the following variables:
 1. Open the R script in RStudio.
 2. Ensure the dataset file is in the same folder as the script.
 3. Run the script to generate all visualizations.
+
 
 
