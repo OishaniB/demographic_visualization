@@ -27,12 +27,29 @@ The dataset contains the following variables:
 - Income category  
 - Car price  
 - Car price category  
-- Education level  
+- Education level
+
+**#Technologies / Libraries Used**
+
+- R (base functions)
+- readxl (for reading Excel files)
+- ggplot2 (for enhanced plotting)
+
+**The generated plots are saved as PDFs in the `outputs` folder. You can view them by clicking the links below:**
+
+- [Age Distribution](outputs/Age%20distribution.pdf)  
+- [Car Price by Category](outputs/Car%20Price%20by%20category.pdf)  
+- [Car Price by Gender](outputs/Car%20Price%20by%20Gender.pdf)  
+- [Gender Distribution](outputs/gender%20distribution.pdf)  
+- [Income by Education Level](outputs/Income%20by%20education%20level.pdf)  
+- [Income Distribution](outputs/Income%20distribution.pdf)  
+- [Income vs Car Price](outputs/Income%20vs%20Car%20Price.pdf)  
+- [Income vs Car Price 01](outputs/Income%20vs%20car%20price_01.pdf)  
 
 **#How to Run This Project**
 
-1. Download or clone this repository.
-2. Open the R script in RStudio.
-3. Ensure the dataset file is in the same folder as the script.
-4. Run the script to generate all visualizations.
+1. Open the R script in RStudio.
+2. Ensure the dataset file is in the same folder as the script.
+3. Run the script to generate all visualizations.
+
 
